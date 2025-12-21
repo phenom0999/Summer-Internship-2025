@@ -34,7 +34,7 @@ This LinkedIn 2025 report examines AI's impact on workforce skills, finding that
 
 * 38% of global C-suite executives prioritize **‘agility’** when considering entry-level candidates for their organizations, according to recent LinkedIn research. 
 
-* AI talents are being hired 30% more than overall hiring as of Aug, 2024 with an increasing trend. ![ai_hiring](images/LinkedIn_2025/global_AI_hiring.png).
+* AI talents are being hired 30% more than overall hiring as of Aug, 2024 with an increasing trend. ![ai_hiring](images/LinkedIn_2025/global_AI_hiring.png)
 
 * The percentage of jobs on LinkedIn listing an **AI literacy skill** increased more than six times over the past year. 
 
