@@ -3,7 +3,7 @@
 This folder contains notebooks and resources used to analyze occupational vacancy trends in Australia using the Internet Vacancy Index (IVI) data.
 
 ## Project Overview
-The primary goal of this analysis is to visualize how job vacancies across different industries (categorized by ANZSCO codes) have fluctuated over time, specifically looking at the impact of the the rise of Generative AI.
+The primary goal of this analysis is to visualize how job vacancies across different industries (categorized by [ANZSCO codes](https://www.abs.gov.au/ausstats/abs@.nsf/Previousproducts/1220.0Search0First%20Edition,%20Revision%201)) have fluctuated over time, specifically looking at the impact of the the rise of Generative AI.
 
 ## Contents
 * `vacancy_trends_australia.ipynb`: The main analysis script containing data cleaning, aggregation, and visualization logic.
