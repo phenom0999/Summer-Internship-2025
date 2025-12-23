@@ -1,6 +1,6 @@
 # Australian Internet Vacancy Trends Analysis
 
-This folder contains notebooks and resources used to analyze occupational vacancy trends in Australia using the Internet Vacancy Index (IVI) data.
+This folder contains notebooks and resources used to analyze occupational vacancy trends in Australia using the [Internet Vacancy Index (IVI) data](https://www.jobsandskills.gov.au/data/internet-vacancy-index).
 
 ## Project Overview
 The primary goal of this analysis is to visualize how job vacancies across different industries (categorized by [ANZSCO codes](https://www.abs.gov.au/ausstats/abs@.nsf/Previousproducts/1220.0Search0First%20Edition,%20Revision%201)) have fluctuated over time, specifically looking at the impact of the the rise of Generative AI.
