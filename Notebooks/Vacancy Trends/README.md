@@ -40,7 +40,12 @@ A custom plotting function `plot_vacancies(code)` is provided. It generates line
     ```
     
 ## Example Visualizations
+
+### 1. ICT professionals
 ![ICT-professionals](outputs/images/ICT%20Professionals.png)
+
+### 2. ICT professionals vs Business, Finance and Human Resource Professionals
+![ICT Professionals-vs-Business](outputs/images/ICT%20Professionals%20vs%20Business,%20Finance%20and%20Human%20Resource%20Professionals.png)
 
 ## Data Source
 The data used in this notebook is based on the **Internet Vacancy Index (IVI)**, which is the main indicator of vacancies used by the Australian Government for labor market analysis.
