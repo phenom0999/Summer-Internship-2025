@@ -8,6 +8,7 @@ The primary goal of this analysis is to visualize how job vacancies across diffe
 ## Contents
 * `vacancy_trends_australia.ipynb`: The main analysis script containing data cleaning, aggregation, and visualization logic.
 * `data/`: Contains the `internet_vacancies.csv` source file.
+* `outputs/`: Contains output images.
 
 ## Methodology
 
