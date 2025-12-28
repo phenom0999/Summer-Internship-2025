@@ -14,7 +14,7 @@ To answer this, we need to compare the change in job postings of ICT to other pr
 ## Evidence
 
 ### The Data
-Top 5 declining job categories (Jan 2019 → Nov 2025):
+Top 5 declining job categories (Nov 2022 → Nov 2025):
 1. **Food Preparation Assistants**: -66.9%
 2. **Hospitality Workers**: -66.2%
 3. **ICT Professionals**: -51.6%
@@ -28,9 +28,10 @@ Top 5 declining job categories (Jan 2019 → Nov 2025):
 - Yet they're declining **faster** than ICT roles
 - If GenAI were the sole cause, non-automatable sectors should remain stable
 
-## Actual Cause
+## Other Possible Causes
 **Macroeconomic factors** affecting all sectors:
-- Interest rate hikes (RBA, mid-2022 onwards)
+- Cash Rate Target (Interest rate) hikes (RBA, mid-2022 onwards)
+   ![ict_vacancy_vs_crt.png](outputs/images/ict_vacancy_vs_crt.png)
 - Cost-of-living crisis reducing consumer spending
 - Post-pandemic labor market correction
 - Tech sector "right-sizing" after 2020-21 over-hiring
