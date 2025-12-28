@@ -26,7 +26,7 @@ Top 5 declining job categories (Nov 2022 → Nov 2025):
 ![AI_impact_on_job_posting](outputs/images/ai_impact_on_job_postings.png)
 
 ### Why This Matters
-- Food preparation and hospitality are identified as fields in which a larger share of skills fall into the minimal-transformation category, according to the [Indeed AI at Work Report (2025)](../../Literature_Review/Indeed_20205.md).
+- Food preparation and hospitality are identified as fields in which a larger share of skills fall into the minimal-transformation category, according to the [Indeed AI at Work Report (2025)](../../Literature_Review/Indeed_2025.md).
 - These roles largely involve physical, in-person tasks that cannot be automated by generative AI.
 - Yet they're declining **faster** than ICT roles.
 - If GenAI were the sole cause, non-automatable sectors should remain stable.
