@@ -1,6 +1,9 @@
-# ICT Job Decline Analysis
+# AI IMPACT IN ICT JOB POSTINGS
 
-## Question
+## Observation
+![ICT_Professionals](../Vacancy_Trends/outputs/images/ICT%20Professionals.png)
+
+## Questions
 Is GenAI the sole cause of the ICT job posting decline since November 2022?
 
 ## Key Finding
