@@ -1,10 +1,12 @@
 # AI IMPACT IN ICT JOB POSTINGS
 
-## Observation
 ![ICT_Professionals](../Vacancy_Trends/outputs/images/ICT%20Professionals.png)
 
-## Questions
-Is GenAI the sole cause of the ICT job posting decline since November 2022?
+There is obviously a decline in the number of job postings in ICT since GenAI started to become mainstream (Nov 2022, Release of GPT 3.5).
+
+**But is GenAI the (sole) cause of the decline?**
+
+To answer this, we need to compare the change in job postings of ICT to other professions.
 
 ## Key Finding
 **No.** GenAI is not the sole cause.
@@ -18,6 +20,8 @@ Top 5 declining job categories (Jan 2019 → Nov 2025):
 3. **ICT Professionals**: -51.6%
 4. **Sales Support Workers**: -42.6%
 5. **Protective Service Workers**: -41.9%
+
+![AI_impact_on_job_posting](outputs/images/ai_impact_on_job_postings.png)
 
 ### Why This Matters
 - Food prep and hospitality **cannot be automated by GenAI** (physical, in-person work)
