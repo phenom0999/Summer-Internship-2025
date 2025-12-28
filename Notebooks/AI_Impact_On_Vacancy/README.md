@@ -34,8 +34,9 @@ Top 5 declining job categories (Nov 2022 → Nov 2025):
 ## Other Possible Causes
 **Macroeconomic factors** affecting all sectors:
 - Cash Rate Target (Interest rate) hikes (RBA, mid-2022 onwards)
-   ![ict_vacancy_vs_crt.png](outputs/images/ict_vacancy_vs_crt.png)
 - Post-pandemic labor market correction after 2020-21 over-hiring
+
+![ict_vacancy_vs_crt.png](outputs/images/ict_vacancy_vs_crt.png)
 
 ## Conclusion
 
