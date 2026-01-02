@@ -15,28 +15,28 @@ This file contains vacancy data across different ICT sectors in Australia over t
 
 ## 1. Software and Applications Progammers
 
-![software_and_applications_developers](images/JSA_ICT_sectors/software_and_application_programmers.png)
+![software_and_applications_developers](images/JSA_ICT_sectors_2025/software_and_application_programmers.png)
 
 ## 2. Database and Systems Administrators, and ICT Security Specialists
 
-![security_database_administrators](images/JSA_ICT_sectors/security_database_administrators.png)
+![security_database_administrators](images/JSA_ICT_sectors_2025/security_database_administrators.png)
 
 ## 3. ICT Business and Systems Analysts
 
-![business_and_system_analysts](images/JSA_ICT_sectors/business_and_system_analysts.png)
+![business_and_system_analysts](images/JSA_ICT_sectors_2025/business_and_system_analysts.png)
 
 ## 4. ICT Support Technicians
 
-![ICT_support_technicians](images/JSA_ICT_sectors/ICT_support_technicians.png)
+![ICT_support_technicians](images/JSA_ICT_sectors_2025/ICT_support_technicians.png)
 
 ## 5. ICT Managers
 
-![ICT_managers](images/JSA_ICT_sectors/ICT_managers.png)
+![ICT_managers](images/JSA_ICT_sectors_2025/ICT_managers.png)
 
 ## 6. Computer Network Professionals
 
-![computer_network](images/JSA_ICT_sectors/computer_network.png)
+![computer_network](images/JSA_ICT_sectors_2025/computer_network.png)
 
 ## 7. Multimedia Specialists and Web Developers
 
-![web_developers](images/JSA_ICT_sectors/web_developers.png)
+![web_developers](images/JSA_ICT_sectors_2025/web_developers.png)
