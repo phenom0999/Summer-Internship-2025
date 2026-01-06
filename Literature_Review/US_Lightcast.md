@@ -3,7 +3,7 @@
 * **Author & Year:** US Lightcast, 2025
 * **Type:** Industry Report
 * **Sector:** US Workforce
-* **Source**: [he Speed of Skill Change - Final release](https://4906807.fs1.hubspotusercontent-na1.net/hubfs/4906807/Speed%20of%20Skill%20Change_US_Lightcast-final.pdf) 
+* **Source**: [The Speed of Skill Change - Final release](https://4906807.fs1.hubspotusercontent-na1.net/hubfs/4906807/Speed%20of%20Skill%20Change_US_Lightcast-final.pdf) 
 
 ## Key Points
 
@@ -22,8 +22,7 @@
 
 This disruption is likely due to the fact that generative AI is highly capable of generating and modifying code.
 
-<img src="images/US_lightcast/AI_skills_demand.png" alt="AI_skills_demand" width="600" height="650">
-
+<img src="images/US_Lightcast/AI_skills_demand.png" alt="AI_skills_demand" width="600" height="650">
 
 ## Top 10 Occupations With The Highest Skill Disruption Index
 
