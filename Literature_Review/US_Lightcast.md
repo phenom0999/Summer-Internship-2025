@@ -1,4 +1,4 @@
-# The Speed of Skill Change
+# The Speed of Skill Change, Lightcast
 
 * **Author & Year:** US Lightcast, 2025
 * **Type:** Industry Report
